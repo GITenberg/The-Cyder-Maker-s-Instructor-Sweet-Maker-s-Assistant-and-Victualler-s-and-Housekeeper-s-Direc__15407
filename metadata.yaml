@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6038'
     url: http://www.gutenberg.org/2009/agents/6038
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15407#The-Cyder-Maker-s-Instructor-Sweet-Maker-s-Assistant-and-Victualler-s-and-Housekeeper-s-Direc_
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2005-03-18'
 gutenberg_type: Text
